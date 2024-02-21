@@ -3,4 +3,7 @@ fun main(){
     println("Cambio 2 ")
     println("Cambio 3 ")
     println("Cambio 4 ")
+    println("Cambio 3.2")
+    println("Cambio 3.3")
+    println("Cambio 3.4")
 }
